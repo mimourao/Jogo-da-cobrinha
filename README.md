@@ -1,2 +1,2 @@
 # Jogo da cobrinha
- Projeto de aula de JS
+Este é o projeto pra ser  entregue como tarefa de javascipt
